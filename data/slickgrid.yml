@@ -6,10 +6,7 @@ npmPackage: slickgrid
 license: MIT License
 revenueModel: Free
 description: >
-  A fully open-source, JavaScript, client-side grid control
-  designed to take an external component as a datasource, and that means
-  SlickGrid should be compatible with a wide range of modern data-centric
-  frameworks.
+  An open-source, client-side JavaScript grid control that binds to an external data source and is compatible with a wide range of data-centric frameworks.
 frameworks:
   vanilla: true
   angular: https://github.com/ghiscoding/slickgrid-universal

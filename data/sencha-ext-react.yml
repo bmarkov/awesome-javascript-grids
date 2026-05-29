@@ -6,10 +6,7 @@ npmPackage: "@sencha/ext-react-modern"
 license: Custom License
 revenueModel: Commercial 30-day Trial
 description: >
-  ExtReact provides the most comprehensive set of components for React
-  developers, including grid, tree grid, pivot grid, charts, D3 visualizations,
-  trees, calendar, buttons, menus and more, with more than 115 professionally
-  tested and supported components that are all designed to work together.
+  A set of 115+ React components including grid, tree grid, pivot grid, charts, D3 visualizations, trees, calendar, buttons, and menus designed to work together.
 frameworks:
   react: true
 features:

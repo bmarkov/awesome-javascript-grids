@@ -6,10 +6,7 @@ npmPackage: "@progress/kendo-ui"
 license: Custom License
 revenueModel: Commercial 30-day Trial
 description: >
-  Kendo UI's Responsive and Adaptive HTML5 Grid widget provides 100+
-  ready-to-use features from paging, sorting, filtering, editing, grouping
-  and group paging to row and column virtualization, export to PDF and Excel,
-  accessibility, globalization and RTL support.
+  An HTML5 and jQuery data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, globalization, RTL, and export to PDF and Excel.
 frameworks:
   jquery: true
 features:

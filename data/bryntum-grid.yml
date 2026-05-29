@@ -6,9 +6,7 @@ npmPackage: null
 license: Custom License
 revenueModel: Commercial with Trial
 description: >
-  The Bryntum Grid is a powerful and high performance table component for the
-  web. Since it is built with pure JavaScript, it works with the framework
-  you are already using.
+  A high-performance table component built with pure JavaScript that works with any framework.
 frameworks:
   vanilla: true
   angular: true

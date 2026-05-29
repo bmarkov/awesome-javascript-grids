@@ -6,9 +6,7 @@ npmPackage: tabulator-tables
 license: MIT License
 revenueModel: Donate via Patreon or PayPal
 description: >
-  The easy to use, fully featured, interactive table JavaScript library.
-  Tabulator allows you to create interactive tables in seconds from any HTML
-  Table, JavaScript Array, AJAX data source or JSON formatted data.
+  An interactive table library that builds tables from HTML tables, JavaScript arrays, AJAX sources, or JSON data.
 frameworks:
   vanilla: true
   jquery: true

@@ -6,7 +6,7 @@ npmPackage: "@visactor/vtable"
 license: MIT License
 revenueModel: Free
 description: >
-  VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.
+  A high-performance grid component for multidimensional data analysis and tabular visualization.
 frameworks:
   vanilla: true
   react: true

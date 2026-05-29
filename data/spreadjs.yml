@@ -6,7 +6,7 @@ npmPackage: "@mescius/spread-sheets"
 license: Commercial License
 revenueModel: Custom License
 description: >
-  Deliver true Excel-like spreadsheet experiences, fast - with zero dependencies on Excel. Create financial, budgeting/forecasting, scientific, engineering, healthcare, insurance, and many other similar JavaScript spreadsheet business applications.
+  An Excel-like JavaScript spreadsheet component with no dependency on Excel, for building financial, scientific, and business applications.
 frameworks:
   vanilla: true
   react: true

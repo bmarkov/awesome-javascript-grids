@@ -34,3 +34,7 @@ Information on each library lives in `data/` and is parsed in `lib/libraries.ts`
 - It makes extensive use of [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/) (with App Router), and [TypeScript](https://www.typescriptlang.org/).
 - Icons are from the various icon sets in [react-icons](https://react-icons.github.io/react-icons/).
 - The GitHub corner thing is Tim Holman's fancy [GitHub Corners](http://tholman.com/github-corners/).
+
+## License
+
+The curated list itself (the contents of `README.md` and `data/`) is dedicated to the public domain under [CC0 1.0](LICENSE). The source code that builds and serves this site is licensed under the [MIT License](LICENSE-CODE).

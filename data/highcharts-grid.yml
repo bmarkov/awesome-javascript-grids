@@ -6,9 +6,7 @@ npmPackage: "@highcharts/grid-lite"
 license: Commercial and Custom License
 revenueModel: Pro Features and Support
 description: >
-  A fast, modern way to work with tabular data.
-  Start with Grid Lite for viewing and interacting with data, or step up to
-  Grid Pro for editing and extended functionality, all built to meet today’s web standards.
+  A grid component for viewing, interacting with, and editing tabular data, available in free Lite and paid Pro versions.
 frameworks:
   vanilla: true
   react: true

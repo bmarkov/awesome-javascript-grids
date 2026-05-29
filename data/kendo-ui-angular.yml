@@ -6,10 +6,7 @@ npmPackage: "@progress/kendo-angular-grid"
 license: Custom License
 revenueModel: Commercial 30-day Trial
 description: >
-  The Kendo UI for Angular Data Grid (Table) provides 100+ ready-to-use features
-  covering everything from paging, sorting, filtering, editing, and grouping
-  to row and column virtualization, export to PDF and Excel and
-  accessibility.
+  An Angular data grid with 100+ features including paging, sorting, filtering, editing, grouping, virtualization, accessibility, and export to PDF and Excel.
 frameworks:
   angular: true
 features:

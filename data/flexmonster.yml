@@ -6,7 +6,7 @@ npmPackage: flexmonster
 license: Custom License
 revenueModel: Commercial 30-day Trial
 description: >
-  The most powerful JavaScript tool for visualizing your business data.
+  A JavaScript pivot table component for reporting on and visualizing tabular data.
 frameworks:
   angular: true
   react: true

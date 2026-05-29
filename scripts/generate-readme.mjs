@@ -40,8 +40,17 @@ const libraries = readdirSync(dataDir)
     if (!item.title || !url) {
       throw new Error(`${name} is missing a title or URL`);
     }
-    return { title: item.title, url, description: shortDescription(item.description) };
+    return {
+      title: item.title,
+      url,
+      description: shortDescription(item.description),
+      maintained: item.features?.maintained,
+    };
   })
+  // Awesome lists should not include unmaintained items. Libraries flagged
+  // `maintained: false` still appear on the interactive site but are omitted
+  // from the README list.
+  .filter((item) => item.maintained !== false)
   .sort((a, b) => a.title.localeCompare(b.title, "en", { sensitivity: "base" }));
 
 const list = libraries

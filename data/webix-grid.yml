@@ -6,8 +6,7 @@ npmPackage: webix-grid-gpl
 license: GPLv3 or Commercial License
 revenueModel: Commercial License and Support
 description: >
-  Flexible and high-performance JavaScript Grid 
-  with rich API & advanced customization for any business logic.
+  A JavaScript data grid with a rich API and extensive customization options.
 frameworks:
   vanilla: true
 features:

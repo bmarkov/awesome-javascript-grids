@@ -6,9 +6,7 @@ npmPackage: "@revolist/revogrid"
 license: MIT License
 revenueModel: Free
 description: >
-  Revolutionary Spreadsheet Data Grid component.
-  Built according to the latest reactivity concepts.
-  Super fast, full of features with advanced customization level.
+  A spreadsheet-like data grid component built on modern reactivity concepts, with virtualization and extensive customization.
 frameworks:
   vanilla: true
   react: true

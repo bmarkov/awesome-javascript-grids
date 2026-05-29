@@ -6,9 +6,7 @@ npmPackage: "@mui/x-data-grid"
 license: MIT or Commercial License
 revenueModel: Premium Features and Support
 description: >
-  Build complex and data-rich applications using a growing list of advanced
-  React components. We're kicking it off with the most powerful Data Grid on the
-  market.
+  A React data grid for data-rich applications, with sorting, filtering, pagination, editing, and virtualization.
 frameworks:
   react: true
 features:

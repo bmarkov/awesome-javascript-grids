@@ -6,9 +6,7 @@ npmPackage: ag-grid-community
 license: MIT or Commercial License
 revenueModel: Free for Personal Use
 description: >
-  Our mission is simple: Build the best datagrid in the world.
-  Born out of frustration with existing solutions, ag-Grid evolved from a
-  side project to becoming the leading JavaScript datagrid on the market.
+  A feature-rich JavaScript data grid supporting React, Angular, Vue, and vanilla JavaScript, with virtualization, editing, grouping, and aggregation.
 frameworks:
   vanilla: true
   react: true
