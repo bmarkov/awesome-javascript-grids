@@ -6,8 +6,8 @@
   <a href="https://jsgrids.statico.io"><img src="https://github.com/user-attachments/assets/16e159b1-fa27-4237-89c7-600f3aeaa250" width="600" alt="Screenshot of the Awesome JavaScript Grids web interface" /></a>
 </div>
 
-> [!NOTE]
-> **[View this list interactively at jsgrids.statico.io](https://jsgrids.statico.io)** — search and filter every library below by framework, features, popularity, license, and bundle size.
+> [!TIP]
+> [View this list interactively at **jsgrids.statico.io**](https://jsgrids.statico.io) — search and filter every library below by framework, features, popularity, license, and bundle size.
 
 ## Contents
 
