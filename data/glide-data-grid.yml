@@ -6,7 +6,7 @@ npmPackage: "@glideapps/glide-data-grid"
 license: MIT License
 revenueModel: Free
 description: >
-  Glide Data Grid is a no compromise, outrageously fast data grid for your React project, with rich rendering and TypeScript support.
+  A no compromise, outrageously fast data grid for your React project, with rich rendering and TypeScript support.
 frameworks:
   react: true
 features:

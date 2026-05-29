@@ -6,7 +6,7 @@ npmPackage: "@fortune-sheet/react"
 license: MIT License
 revenueModel: Free
 description: >
-  FortuneSheet is a drop-in JavaScript spreadsheet library that provides rich
+  A drop-in JavaScript spreadsheet library that provides rich
   features like Excel and Google Sheets. It is a TypeScript rewrite of
   Luckysheet with improved architecture, native React support, immer-based
   state management, and no jQuery dependency. It supports collaborative editing,

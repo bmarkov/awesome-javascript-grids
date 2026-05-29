@@ -6,7 +6,7 @@ npmPackage: "@bilig/headless"
 license: MIT License
 revenueModel: Free
 description: >
-  bilig is a headless TypeScript spreadsheet engine and WorkPaper API for Node
+  A headless TypeScript spreadsheet engine and WorkPaper API for Node
   services, coding agents, and server-side workbook automation. It supports
   formula-backed workbooks, structural edits, persistence round trips,
   validation, and readback without opening a browser grid.

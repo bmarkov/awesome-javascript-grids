@@ -6,7 +6,7 @@ npmPackage: gridjs
 license: MIT License
 revenueModel: Free
 description: >
-  Grid.js is a free and open-source HTML table plugin written in TypeScript.
+  A free and open-source HTML table plugin written in TypeScript.
 frameworks:
   vanilla: true
   react: true

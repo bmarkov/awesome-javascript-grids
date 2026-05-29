@@ -6,7 +6,7 @@ npmPackage: react-virtualized-pivot
 license: MIT License
 revenueModel: Free
 description: >
-  react-virtualized-pivot is a React.js pivot table UI built on top of
+  A React.js pivot table UI built on top of
   react-virtualized and quick-pivot.
 frameworks:
   react: true

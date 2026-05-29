@@ -6,7 +6,7 @@ npmPackage: luckysheet
 license: MIT License
 revenueModel: Free (Asks for sponsors)
 description: >
-  Luckysheet is an online spreadsheet like excel that is powerful, simple to
+  An online spreadsheet like Excel that is powerful, simple to
   configure, and completely open source.
 frameworks:
   vanilla: true

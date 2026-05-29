@@ -6,7 +6,7 @@ npmPackage: tui-grid
 license: MIT License
 revenueModel: Free
 description: >
-  TOAST UI Grid is a powerful widget which allows you to visualize and edit
+  A powerful widget which allows you to visualize and edit
   data via its table representation.
 frameworks:
   vanilla: true

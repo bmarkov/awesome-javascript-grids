@@ -6,7 +6,7 @@ npmPackage: "@smarthtmlelements/smart-elements"
 license: Custom License
 revenueModel: Community and Enterprise Versions
 description: >
-  Smart.Grid represents a Data Grid component which displays tabular data. It
+  A Data Grid component which displays tabular data. It
   allows you to sort, filter, edit, group the data.
 frameworks:
   angular: true

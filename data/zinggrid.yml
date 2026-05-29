@@ -6,7 +6,7 @@ npmPackage: zinggrid
 license: Proprietary
 revenueModel: Freemium
 description: >
-  ZingGrid is a JavaScript Web Component data grid and table library built with
+  A JavaScript Web Component data grid and table library built with
   ES6 and native web components. It focuses on creating CRUD grids quickly with
   minimal setup and supports multiple data sources including REST, Firebase,
   GraphQL, and databases. It requires no framework wrappers and offers built-in

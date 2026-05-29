@@ -6,7 +6,7 @@ npmPackage: w2ui
 license: MIT License
 revenueModel: Free
 description: >
-  w2ui is a modern and intuitive JavaScript UI library for building rich
+  A modern and intuitive JavaScript UI library for building rich
   data-driven web applications. The library has a small footprint and
   requires only jQuery (1.9+) as a dependency.
 frameworks:

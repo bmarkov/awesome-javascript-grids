@@ -6,7 +6,7 @@ npmPackage: angular-smart-table
 license: MIT License
 revenueModel: Free
 description: >
-  Smart Table is a table module for angular js. It is lightweight (around 3kb
+  A table module for AngularJS. It is lightweight (around 3kb
   minified) and has no other dependencies than Angular itself.
 frameworks:
   angular: true

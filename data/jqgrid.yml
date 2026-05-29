@@ -6,7 +6,7 @@ npmPackage: jqGrid
 license: CC-BY-NC-3.0 or Commercial License
 revenueModel: Free for Personal Use / Commercial License
 description: >
-  JqGrid is an Ajax-enabled JavaScript control that provides solutions for
+  An Ajax-enabled JavaScript control that provides solutions for
   representing and manipulating tabular data on the web.
 frameworks:
   jquery: true
