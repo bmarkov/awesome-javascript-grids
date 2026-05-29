@@ -6,7 +6,7 @@ npmPackage: null
 license: MIT License
 revenueModel: Donations
 description: >
-  Spreadsheet is a fully functional native javascript spreadsheet. It is
+  Spreadsheet is a fully functional native JavaScript spreadsheet. It is
   inspired by Google sheets, shares similar functionality, but is 100%
   original hand coded.
 frameworks:

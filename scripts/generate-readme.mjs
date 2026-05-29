@@ -17,15 +17,33 @@ const readmePath = join(root, "README.md");
 const BEGIN = "<!-- BEGIN GENERATED LIST -->";
 const END = "<!-- END GENERATED LIST -->";
 
+// Awesome list descriptions must not start with the library's own name, so
+// strip a leading title (and any "is a/the" filler) and re-capitalize.
+const stripLeadingTitle = (title, text) => {
+  const esc = title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const re = new RegExp(
+    `^${esc}\\b[\\s:,–—-]*(?:(?:is|are|was|were)(?:\\s+(?:a|an|the))?\\s+)?`,
+    "i"
+  );
+  const stripped = text.replace(re, "");
+  if (!stripped || stripped === text) return text;
+  return stripped[0].toUpperCase() + stripped.slice(1);
+};
+
 // Collapse whitespace and take the first sentence so each entry stays one line.
-const shortDescription = (description) => {
+const shortDescription = (title, description) => {
   const text = String(description ?? "")
     .replace(/\s+/g, " ")
     .trim();
   if (!text) return "";
   const match = text.match(/^.*?[.!?](?=\s|$)/);
   let sentence = match ? match[0] : text;
+  sentence = stripLeadingTitle(title, sentence);
+  // Awesome lists require descriptions to start with valid (upper) casing.
+  sentence = sentence[0].toUpperCase() + sentence.slice(1);
   if (sentence.length > 200) sentence = sentence.slice(0, 197).trimEnd() + "…";
+  // Awesome lists expect descriptions to end with punctuation.
+  if (!/[.!?…]$/.test(sentence)) sentence += ".";
   return sentence;
 };
 
@@ -40,13 +58,13 @@ const libraries = readdirSync(dataDir)
     if (!item.title || !url) {
       throw new Error(`${name} is missing a title or URL`);
     }
-    return { title: item.title, url, description: shortDescription(item.description) };
+    return { title: item.title, url, description: shortDescription(item.title, item.description) };
   })
   .sort((a, b) => a.title.localeCompare(b.title, "en", { sensitivity: "base" }));
 
 const list = libraries
   .map(({ title, url, description }) =>
-    description ? `- [${title}](${url}) — ${description}` : `- [${title}](${url})`
+    description ? `- [${title}](${url}) - ${description}` : `- [${title}](${url})`
   )
   .join("\n");
 

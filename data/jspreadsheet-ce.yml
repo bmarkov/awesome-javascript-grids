@@ -6,7 +6,7 @@ npmPackage: jspreadsheet-ce
 license: MIT License
 revenueModel: Free
 description: >
-  Jspreadsheet CE (formerly Jexcel) is a lightweight vanilla javascript plugin to
+  Jspreadsheet CE (formerly Jexcel) is a lightweight vanilla JavaScript plugin to
   create amazing web-based online interactive tables and spreadsheets
   compatible with other spreadsheet softwares.
 frameworks:
