@@ -31,20 +31,20 @@ export default function IndexPage({ items, ts }: IndexPageProps) {
           <ModeToggle />
         </div>
         <GithubCorner
-          href="https://github.com/statico/jsgrids"
+          href="https://github.com/statico/awesome-javascript-grids"
           bannerColor="#fff"
           octoColor="#475569"
           className="[&>svg]:fill-slate-600 dark:[&>svg]:fill-slate-800"
         />
         <div className="space-y-4">
-          <h1 className="text-4xl font-bold">jsgrids.statico.io</h1>
+          <h1 className="text-4xl font-bold">Awesome JavaScript Grids</h1>
           <h2 className="text-2xl font-normal">
-            A List of JavaScript Spreadsheet and Data Grid Libraries
+            A Curated List of JavaScript Spreadsheet and Data Grid Libraries
           </h2>
           <p className="text-base font-normal" suppressHydrationWarning>
             Last Update: {format(new Date(ts), "MMM d, yyyy")} -{" "}
             <a
-              href="https://github.com/statico/jsgrids#contributing"
+              href="https://github.com/statico/awesome-javascript-grids#contributing"
               className="hover:underline inline-flex flex-row gap-2 items-center"
             >
               Contributions welcome!
@@ -76,7 +76,7 @@ export default function IndexPage({ items, ts }: IndexPageProps) {
       <footer className="p-10 text-gray-600 text-center space-y-2">
         <div>
           <a
-            href="https://github.com/statico/jsgrids"
+            href="https://github.com/statico/awesome-javascript-grids"
             className="hover:underline"
           >
             Help improve this list on GitHub

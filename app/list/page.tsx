@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const maxDuration = 60;
 
 export const metadata: Metadata = {
-  title: "All Libraries - jsgrids",
+  title: "All Libraries - Awesome JavaScript Grids",
   description:
     "Complete list of JavaScript spreadsheet and data grid libraries",
 };

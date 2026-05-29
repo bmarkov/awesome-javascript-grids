@@ -5,8 +5,9 @@ import "./globals.css";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { ThemeProvider } from "@/components/theme-provider";
 
-const name = "jsgrids";
-const title = "jsgrids - Spreadsheet and data grid libraries for JavaScript";
+const name = "Awesome JavaScript Grids";
+const title =
+  "Awesome JavaScript Grids - Spreadsheet and data grid libraries for JavaScript";
 const description =
   "A searchable list of popular spreadsheets and data grid libraries for JavaScript and TypeScript with framework (React, Vue, Angular, Svelte, Ember, jQuery, Vanilla JS), popularity, and feature information.";
 const url = "https://jsgrids.statico.io";
@@ -14,7 +15,7 @@ const image = {
   url: url + "/jsgrids.png",
   width: "1200",
   height: "630",
-  alt: "Screenshot of jsgrids",
+  alt: "Screenshot of Awesome JavaScript Grids",
 };
 
 export const metadata: Metadata = {
