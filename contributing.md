@@ -4,9 +4,11 @@ Pull requests are welcome to help keep this list up to date.
 
 ## Adding or updating a library
 
-1. Add or edit a YAML file in `data/` — see the existing files for the schema (title, home URL, GitHub repo, npm package, license, supported frameworks, and features).
-2. Run `pnpm generate-readme` to refresh the library list in `README.md`.
-3. Open a pull request and make sure the Vercel build passes successfully.
+1. Skim `lib/features.ts` to learn the feature flags so you can describe the library's capabilities accurately.
+2. Add or edit a YAML file in `data/` — see the existing files for the schema (title, home URL, GitHub repo, npm package, license, supported frameworks, and features).
+3. Run `pnpm generate-readme` to refresh the library list in `README.md`.
+4. Run `npx awesome-lint` to confirm the README still conforms to the Awesome list format.
+5. Open a pull request.
 
 All library descriptions are adapted from each package's home page.
 

@@ -6,8 +6,8 @@ npmPackage: backgrid
 license: MIT License
 revenueModel: Free
 description: >
-  JqGrid is an Ajax-enabled JavaScript control that provides solutions for
-  representing and manipulating tabular data on the web.
+  A set of components for building semantic and easily stylable data grid
+  widgets, built on Backbone.js.
 frameworks:
   jquery: true
 features:

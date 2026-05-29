@@ -13,7 +13,7 @@
 - [ag-Grid](https://www.ag-grid.com/) - Our mission is simple: Build the best datagrid in the world.
 - [Angular UI Grid](http://ui-grid.info/) - A data grid for AngularJS; part of the AngularUI suite.
 - [AntV S2](https://s2.antv.antgroup.com/) - A practical visualization library for tabular analysis with support for up to millions of data.
-- [Backgrid.js](http://backgridjs.com/) - JqGrid is an Ajax-enabled JavaScript control that provides solutions for representing and manipulating tabular data on the web.
+- [Backgrid.js](http://backgridjs.com/) - A set of components for building semantic and easily stylable data grid widgets, built on Backbone.js.
 - [bilig](https://proompteng.github.io/bilig/) - A headless TypeScript spreadsheet engine and WorkPaper API for Node services, coding agents, and server-side workbook automation.
 - [Bryntum Grid](https://www.bryntum.com/products/grid/) - The Bryntum Grid is a powerful and high performance table component for the web.
 - [BW DataTable](https://github.com/bw-ui/bw-datatable) - High-performance virtual scrolling data table with zero dependencies.
