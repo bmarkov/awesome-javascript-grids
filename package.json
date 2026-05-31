@@ -7,8 +7,7 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "export": "next export",
-    "start": "next start",
-    "generate-readme": "node scripts/generate-readme.mjs"
+    "start": "next start"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",

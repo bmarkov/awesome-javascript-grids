@@ -6,8 +6,8 @@ npmPackage: functional-data-grid
 license: MIT License
 revenueModel: Donations
 description: >
-  This is a library made with React and React-Virtualized for creating rich
-  data grids. It's really fast and is being used in production with tens of
+  A data grid built with React and React-Virtualized for rendering rich,
+  high-performance tabular displays. It's used in production with tens of
   thousands of elements.
 frameworks:
   react: true

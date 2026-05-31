@@ -5,8 +5,8 @@ Pull requests are welcome to help keep this list up to date.
 ## Adding or updating a library
 
 1. Skim `lib/features.ts` to learn the feature flags so you can describe the library's capabilities accurately.
-2. Add or edit a YAML file in `data/` — see the existing files for the schema (title, home URL, GitHub repo, npm package, license, supported frameworks, and features).
-3. Run `pnpm generate-readme` to refresh the library list in `README.md`.
+2. Add or edit a YAML file in `data/` — see the existing files for the schema (title, home URL, GitHub repo, npm package, license, supported frameworks, and features). This powers the interactive site.
+3. Add or update the library's entry in `README.md` by hand, keeping the list alphabetical. Separate the link and description with a dash, start the description with an uppercase letter, and end it with a period.
 4. Run `npx awesome-lint` to confirm the README still conforms to the Awesome list format.
 5. Open a pull request.
 

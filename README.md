@@ -16,8 +16,6 @@
 
 ## Libraries
 
-<!-- BEGIN GENERATED LIST -->
-
 - [ag-Grid](https://www.ag-grid.com/) - A feature-rich JavaScript data grid supporting React, Angular, Vue, and vanilla JavaScript, with virtualization, editing, grouping, and aggregation.
 - [Angular UI Grid](http://ui-grid.info/) - A data grid for AngularJS; part of the AngularUI suite.
 - [AntV S2](https://s2.antv.antgroup.com/) - A practical visualization library for tabular analysis with support for up to millions of data.
@@ -37,7 +35,7 @@
 - [Flexmonster](https://www.flexmonster.com/) - A JavaScript pivot table component for reporting on and visualizing tabular data.
 - [FortuneSheet](https://ruilisi.github.io/fortune-sheet-docs/) - A drop-in JavaScript spreadsheet library that provides rich features like Excel and Google Sheets.
 - [Frappe DataTable](https://frappe.io/datatable) - Modern datatable library for the web.
-- [Functional Data Grid](https://github.com/energydrink9/functional-data-grid) - This is a library made with React and React-Virtualized for creating rich data grids.
+- [Functional Data Grid](https://github.com/energydrink9/functional-data-grid) - A data grid built with React and React-Virtualized for rendering rich, high-performance tabular displays.
 - [Glide Data Grid](https://grid.glideapps.com/) - A fast React data grid with rich cell rendering and TypeScript support.
 - [Grid.js](https://gridjs.io/) - A free and open-source HTML table plugin written in TypeScript.
 - [GridSheet](https://gridsheet.walkframe.com/) - A modern, extensible spreadsheet engine for the web.
@@ -77,7 +75,7 @@
 - [SlickGrid](https://slickgrid.net/) - An open-source, client-side JavaScript grid control that binds to an external data source and is compatible with a wide range of data-centric frameworks.
 - [Smart.Grid](https://www.htmlelements.com/docs/grid/) - A Data Grid component which displays tabular data.
 - [SpreadJS](https://developer.mescius.com/spreadjs) - An Excel-like JavaScript spreadsheet component with no dependency on Excel, for building financial, scientific, and business applications.
-- [SVAR DataGrid](https://svar.dev/svelte/datagrid/) - A lightweight and blazing-fast data grid component with a rich feature set including in-cell editing, sorting, filtering, virtual scrolling, pagination, keyboard navigation, and special helper for…
+- [SVAR DataGrid](https://svar.dev/svelte/datagrid/) - A lightweight data grid component for Svelte and React with in-cell editing, sorting, filtering, virtual scrolling, pagination, and keyboard navigation.
 - [SyncFusion DataGrid](https://www.syncfusion.com/javascript-ui-controls/js-data-grid) - HTML5/JavaScript Grid/DataGrid is a feature-rich control for displaying data in a tabular format.
 - [TablixJS](https://github.com/ivkeapp/TablixJS) - A lightweight, dependency-free JavaScript library for building powerful, responsive data tables.
 - [Tabulator](http://tabulator.info/) - An interactive table library that builds tables from HTML tables, JavaScript arrays, AJAX sources, or JSON data.
@@ -92,8 +90,6 @@
 - [Wijmo FlexGrid](https://www.grapecity.com/wijmo/flexgrid-javascript-data-grid) - A JavaScript data grid component with editing, sorting, filtering, grouping, and Excel-style features, with support for major frameworks.
 - [Wijmo Grid](https://www.grapecity.com/wijmo) - Enterprise-grade JavaScript data grid component by GrapeCity.
 - [ZingGrid](https://www.zinggrid.com/) - A JavaScript Web Component data grid and table library built with ES6 and native web components.
-
-<!-- END GENERATED LIST -->
 
 ## Motivation
 
